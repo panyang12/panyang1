@@ -14,10 +14,10 @@ body{
 </head>
 <body>
 <h1><i>FAMILIA</i></h1>
-enter><img src="fam.jpg"alt="family"width="600"height="300"></center>
+<center><img src="fam.jpg"alt="family"width="600"height="300"></center>
 <h2><center><p><i>    " my strength is my family.."</i></p></center></h2>
 <h1><center>FRIENDS</center></h1>
-enter><img src="pals.jpg"alt="friends"width="600"height="300"></center>
+<center><img src="pals.jpg"alt="friends"width="600"height="300"></center>
 </body>
 </html>
 		  
